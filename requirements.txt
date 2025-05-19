@@ -1,0 +1,6 @@
+
+flask
+bark
+torchaudio
+torch
+numpy
