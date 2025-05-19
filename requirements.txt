@@ -5,5 +5,3 @@ torchaudio
 torch
 numpy
 gunicorn
-
-fix: adiciona gunicorn
